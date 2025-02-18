@@ -5,16 +5,10 @@
 ## Features  
 - **Bidirectional Scrolling**: Navigate freely in both horizontal and vertical directions.  
 - **Custom Positioning**: Precisely place widgets at any coordinate within the canvas.  
-- **Efficient Rendering**: Optimized for handling multiple widgets with performance in mind.  
+- **Efficient Rendering**: Optimized for handling multiple widgets with performance in mind.
+  
 
-
-## Installation  
-Add **CanvasView** to your `pubspec.yaml`:  
-```yaml
-dependencies:
-  canvas_view: 1.0.0
-```  
-Run `flutter pub get` to fetch the package.  
+[Example](https://github.com/user-attachments/assets/a243fc15-0a52-4c0c-a002-5a6a11bd2c8a)
 
 ## Usage  
 A simple example of how to use **CanvasView**:  
