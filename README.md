@@ -30,10 +30,6 @@ final List<CanvasComponent> children = [
 ];
 ```  
 
-## Customization  
-- **`CanvasChildDelegate`**: Manages the layout of positioned children.  
-- **`CanvasComponent`**: Represents an individual item with an `id`, `position`, and `widget`.  
-
 ## Use Cases  
 - Infinite canvas applications  
 - Custom diagram builders  
